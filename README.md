@@ -6,18 +6,7 @@ The dataset simulates ticket sales across sports and entertainment events — co
 
 ---
 
-## 📁 Repository Structure
 
-```
-.
-├── data/
-│   ├── sports_entertainment_tickets.csv
-│   └── sports_entertainment_tickets_clean.csv
-├── scripts/
-│   ├── tickets_data_cleaning_script.sql
-│   └── tickets_data_cleaning_script_2.sql
-└── README.md
-```
 
 ---
 
