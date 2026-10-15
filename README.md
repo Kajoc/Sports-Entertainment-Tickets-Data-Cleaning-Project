@@ -1,6 +1,6 @@
 # Sports Entertainment Tickets Data Cleaning Project
 
-A MySQL data cleaning project that transforms a raw, messy ticketing dataset into an analysis-ready table with consistent types, resolved duplicates, and standardized dates.
+An SQL data cleaning project with MySQL that transforms a raw, messy ticketing dataset into an analysis-ready table with consistent types, resolved duplicates, and standardized dates.
 
 The dataset simulates ticket sales across sports and entertainment events — covering orders, customers, venues, pricing, payment, attendance, and post-event feedback.
 
