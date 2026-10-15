@@ -8,7 +8,6 @@ The dataset simulates ticket sales across sports and entertainment events — co
 
 
 
----
 
 ## 🎯 Project Overview
 
